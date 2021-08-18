@@ -1,4 +1,4 @@
-# udacity
+# udacity blog post
 
 This project houses a few key parts.
 
