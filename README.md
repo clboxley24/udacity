@@ -10,10 +10,10 @@ These files are used to make a blog post intended to share questions and insight
 
 Libraries used:
 
-import pandas as pd
-import numpy as np
-import re
-import seaborn as sns
-import matplotlib.pyplot as plt
-import folium
-import json
+1) import pandas as pd
+2) import numpy as np
+3) import re
+4) import seaborn as sns
+5) import matplotlib.pyplot as plt
+6) import folium
+7) import json
