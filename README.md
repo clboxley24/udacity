@@ -1,5 +1,7 @@
 # udacity blog post
 
+Link: https://medium.com/@christianboxley/the-seattle-airbnb-market-3a8c8bd292f4
+
 ## Installations:
 
 1) import pandas as pd
