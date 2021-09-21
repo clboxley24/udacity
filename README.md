@@ -14,7 +14,12 @@ Link: https://medium.com/@christianboxley/the-seattle-airbnb-market-3a8c8bd292f4
 
 ## Project Motivation
 
-These files are used to make a blog post intended to share questions and insights from the dataset with a non-technical audience.
+These files are used to make a blog post intended to share questions and insights from the dataset with a non-technical audience. The goal of this project was to pose at least three questions related to business or real-world applications of how the data could be used.
+
+The three questions are:
+1) What zipcode has the most expensive airbnbs?
+2) What type of airbnb gets the most reviews?
+3) How does the number of guests an airbnb can accomodate relate to price?
 
 ## File Descriptions
 
